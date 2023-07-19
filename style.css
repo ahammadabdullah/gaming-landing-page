@@ -149,7 +149,12 @@ html{
     border-radius: 48px;
     border: none;
 }
-
+.btn-primary:hover{
+    cursor: pointer;
+}
+.btn-secondary:hover{
+    cursor: pointer;
+}
 
 /* we are gamer section styles here  */
 
@@ -312,6 +317,9 @@ html{
     display: flex;
     align-items: center;
     width: fit-content;
+}
+.game-btn:hover{
+    cursor: pointer;
 }
 .game-btn img{
     padding-right: 20px;
