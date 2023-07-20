@@ -426,6 +426,8 @@ html{
         width: 80%;
         translate: 0px;
         padding: 50px;
+        position: relative;
+        right: 20px;
 
     }
 
@@ -433,7 +435,7 @@ html{
     width: 80%;
     background-size: 100%;
     padding: 0px 0px 50px 20px;
-    margin: 50px 0 0px 50px;
+    margin: 50px 0 0px 40px;
     }
 
     .banner-content .banner-desc{
@@ -443,7 +445,6 @@ html{
     .btn-primary{
         margin: 0;
     }
-
 
     /* we are gamer section responsive styles here  */
 
